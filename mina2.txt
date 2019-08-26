@@ -1,1 +1,2 @@
 mina2
+MINA2
